@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 import statsmodels.api as sm
 
 # ---------- 0) PARAMÈTRES ----------
-# ✏️ Mets ici le chemin vers ton CSV (avec les 5 colonnes ci-dessous)
+
 INPUT_CSV = r"C:\Users\dalia\OneDrive\Bureau\CM M2\digital economy and technicale change\Munier francis\projet\merged_IA_BienEtre.csv"
 # Le fichier doit avoir au minimum ces colonnes (casse indifférente) :
 # Country | Year | WellBeing | RobotsInstalled | ICT
